@@ -1,0 +1,7 @@
+name = "MeshBasisFunctions"
+uuid = "c4ab7fe8-f6ae-443b-aed6-a73da318de3a"
+authors = ["Sam Urmy <oceanographerschoice@gmail.com>", "John K Best <isposdef@gmail.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1.2"
