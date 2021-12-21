@@ -1,7 +1,12 @@
 name = "MeshBasisFunctions"
 uuid = "c4ab7fe8-f6ae-443b-aed6-a73da318de3a"
-authors = ["Sam Urmy <oceanographerschoice@gmail.com>", "John K Best <isposdef@gmail.com>"]
+authors = ["John K Best <isposdef@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+Meshes = "eacbb407-ea5a-433e-ab97-5258b1ca43fa"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 
 [compat]
 julia = "1.2"
